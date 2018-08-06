@@ -3,7 +3,7 @@ import styled, {StyledFunction} from 'styled-components';
 
 const TextTypeStyle = {
   BASIC: `
-  background-color: #EAF4FB;
+  background-color: #0d2c40;
   border: 1px solid #3F9DDC;
   color: #000000;
   font-size: 120%;

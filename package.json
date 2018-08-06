@@ -18,10 +18,6 @@
     "url": "https://github.com/synergytaki/simple-react-es6/issues"
   },
   "homepage": "https://github.com/synergytaki/simple-react-es6#readme",
-  "peerDependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1"
-  },
   "devDependencies": {
     "@types/react": "^16.4.7",
     "@types/react-dom": "^16.0.6",
@@ -38,6 +34,9 @@
     "webpack-dev-server": "^3.1.5"
   },
   "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
     "simple-react-typescript-styledcomponent": "^1.0.0",
     "typescript": "^3.0.1"
   }

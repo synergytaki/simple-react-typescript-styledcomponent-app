@@ -9,6 +9,7 @@ config.output.filename = "index.js";
 config.mode = 'development';
 
 config.devServer = {
+  historyApiFallback: true,
   contentBase: path.join(__dirname, 'public'),
   compress: true,
   port: 9090,
